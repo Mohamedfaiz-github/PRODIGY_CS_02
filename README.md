@@ -1,6 +1,8 @@
+Task 2 
+
 Image Encryption/Decryption Tool
 
-Task: Develop a simple image encryption tool using pixel manipulation (swapping pixel values or applying mathematical operations). 
+Develop a simple image encryption tool using pixel manipulation (swapping pixel values or applying mathematical operations). 
 Implement encryption and decryption functionality.
 
 This tool allows you to encrypt and decrypt images using XOR and pixel shuffling. 
